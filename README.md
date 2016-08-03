@@ -1,2 +1,2 @@
-# Sniffer Project 
-JAVA Project about Sniffing networks to get some intels
+# Network Fetcher Project 
+A network Discovery App using the NMAP API.
